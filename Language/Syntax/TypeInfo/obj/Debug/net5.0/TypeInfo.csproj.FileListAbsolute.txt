@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\bin\Debug\net5.0\TypeInfo.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\bin\Debug\net5.0\TypeInfo.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\bin\Debug\net5.0\TypeInfo.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\bin\Debug\net5.0\TypeInfo.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\bin\Debug\net5.0\TypeInfo.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\bin\Debug\net5.0\ref\TypeInfo.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\bin\Debug\net5.0\TypeInfo.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\obj\Debug\net5.0\TypeInfo.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\obj\Debug\net5.0\TypeInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\obj\Debug\net5.0\TypeInfo.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\obj\Debug\net5.0\TypeInfo.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\obj\Debug\net5.0\TypeInfo.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\obj\Debug\net5.0\TypeInfo.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\obj\Debug\net5.0\ref\TypeInfo.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\obj\Debug\net5.0\TypeInfo.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\TypeInfo\obj\Debug\net5.0\TypeInfo.genruntimeconfig.cache
