@@ -1,2 +1,2 @@
 # DailyDotNET
-My CSharpCode
+C# code repository
