@@ -1,0 +1,12 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.genruntimeconfig.cache

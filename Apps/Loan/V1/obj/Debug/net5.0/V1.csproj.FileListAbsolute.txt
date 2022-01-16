@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\bin\Debug\net5.0\V1.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\bin\Debug\net5.0\V1.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\bin\Debug\net5.0\V1.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\bin\Debug\net5.0\V1.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\bin\Debug\net5.0\V1.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\bin\Debug\net5.0\ref\V1.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\bin\Debug\net5.0\V1.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\obj\Debug\net5.0\V1.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\obj\Debug\net5.0\V1.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\obj\Debug\net5.0\V1.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\obj\Debug\net5.0\V1.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\obj\Debug\net5.0\V1.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\obj\Debug\net5.0\V1.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\obj\Debug\net5.0\ref\V1.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\obj\Debug\net5.0\V1.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Projects\Loan\V1\obj\Debug\net5.0\V1.genruntimeconfig.cache

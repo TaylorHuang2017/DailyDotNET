@@ -1,0 +1,13 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\bin\Debug\netcoreapp3.1\strTrim.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\bin\Debug\netcoreapp3.1\strTrim.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\bin\Debug\netcoreapp3.1\strTrim.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\bin\Debug\netcoreapp3.1\strTrim.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\bin\Debug\netcoreapp3.1\strTrim.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\bin\Debug\netcoreapp3.1\strTrim.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\obj\Debug\netcoreapp3.1\strTrim.csprojAssemblyReference.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\obj\Debug\netcoreapp3.1\strTrim.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\obj\Debug\netcoreapp3.1\strTrim.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\obj\Debug\netcoreapp3.1\strTrim.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\obj\Debug\netcoreapp3.1\strTrim.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\obj\Debug\netcoreapp3.1\strTrim.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\strTrim\obj\Debug\netcoreapp3.1\strTrim.genruntimeconfig.cache

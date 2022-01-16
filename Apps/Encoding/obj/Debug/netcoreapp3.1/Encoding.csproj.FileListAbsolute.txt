@@ -1,0 +1,13 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\bin\Debug\netcoreapp3.1\Encoding.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\bin\Debug\netcoreapp3.1\Encoding.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\bin\Debug\netcoreapp3.1\Encoding.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\bin\Debug\netcoreapp3.1\Encoding.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\bin\Debug\netcoreapp3.1\Encoding.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\bin\Debug\netcoreapp3.1\Encoding.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\obj\Debug\netcoreapp3.1\Encoding.csprojAssemblyReference.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\obj\Debug\netcoreapp3.1\Encoding.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\obj\Debug\netcoreapp3.1\Encoding.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\obj\Debug\netcoreapp3.1\Encoding.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\obj\Debug\netcoreapp3.1\Encoding.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\obj\Debug\netcoreapp3.1\Encoding.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Encoding\obj\Debug\netcoreapp3.1\Encoding.genruntimeconfig.cache

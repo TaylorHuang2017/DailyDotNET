@@ -1,0 +1,13 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1\Delegate.csprojAssemblyReference.cache

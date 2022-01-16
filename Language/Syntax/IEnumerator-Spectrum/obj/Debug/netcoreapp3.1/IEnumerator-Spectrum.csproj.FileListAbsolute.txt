@@ -1,0 +1,12 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.genruntimeconfig.cache

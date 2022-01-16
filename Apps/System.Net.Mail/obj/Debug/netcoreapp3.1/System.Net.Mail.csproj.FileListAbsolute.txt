@@ -1,0 +1,13 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\bin\Debug\netcoreapp3.1\System.Net.Mail.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\bin\Debug\netcoreapp3.1\System.Net.Mail.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\bin\Debug\netcoreapp3.1\System.Net.Mail.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\bin\Debug\netcoreapp3.1\System.Net.Mail.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\bin\Debug\netcoreapp3.1\System.Net.Mail.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\bin\Debug\netcoreapp3.1\System.Net.Mail.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\obj\Debug\netcoreapp3.1\System.Net.Mail.csprojAssemblyReference.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\obj\Debug\netcoreapp3.1\System.Net.Mail.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\obj\Debug\netcoreapp3.1\System.Net.Mail.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\obj\Debug\netcoreapp3.1\System.Net.Mail.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\obj\Debug\netcoreapp3.1\System.Net.Mail.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\obj\Debug\netcoreapp3.1\System.Net.Mail.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\System.Net.Mail\obj\Debug\netcoreapp3.1\System.Net.Mail.genruntimeconfig.cache

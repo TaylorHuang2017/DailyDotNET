@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\bin\Debug\net5.0\DateTimeType.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\bin\Debug\net5.0\DateTimeType.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\bin\Debug\net5.0\DateTimeType.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\bin\Debug\net5.0\DateTimeType.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\bin\Debug\net5.0\DateTimeType.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\bin\Debug\net5.0\ref\DateTimeType.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\bin\Debug\net5.0\DateTimeType.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\obj\Debug\net5.0\DateTimeType.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\obj\Debug\net5.0\DateTimeType.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\obj\Debug\net5.0\DateTimeType.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\obj\Debug\net5.0\DateTimeType.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\obj\Debug\net5.0\DateTimeType.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\obj\Debug\net5.0\DateTimeType.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\obj\Debug\net5.0\ref\DateTimeType.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\obj\Debug\net5.0\DateTimeType.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\DateTimeType\obj\Debug\net5.0\DateTimeType.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\bin\Debug\netcoreapp3.1\Event.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\bin\Debug\netcoreapp3.1\Event.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\bin\Debug\netcoreapp3.1\Event.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Event.csprojAssemblyReference.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Event.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Event.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache

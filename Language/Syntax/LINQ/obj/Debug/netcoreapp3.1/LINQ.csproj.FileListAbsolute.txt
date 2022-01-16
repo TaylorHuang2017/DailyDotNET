@@ -1,0 +1,13 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\obj\Debug\netcoreapp3.1\LINQ.csprojAssemblyReference.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache

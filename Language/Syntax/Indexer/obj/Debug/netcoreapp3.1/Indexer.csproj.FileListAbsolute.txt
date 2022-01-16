@@ -1,0 +1,13 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache

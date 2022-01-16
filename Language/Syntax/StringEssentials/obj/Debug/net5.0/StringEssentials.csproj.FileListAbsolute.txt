@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\obj\Debug\net5.0\StringEssentials.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\obj\Debug\net5.0\StringEssentials.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\obj\Debug\net5.0\StringEssentials.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\obj\Debug\net5.0\StringEssentials.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\obj\Debug\net5.0\StringEssentials.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\bin\Debug\net5.0\StringEssentials.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\bin\Debug\net5.0\StringEssentials.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\bin\Debug\net5.0\StringEssentials.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\bin\Debug\net5.0\StringEssentials.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\bin\Debug\net5.0\StringEssentials.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\bin\Debug\net5.0\ref\StringEssentials.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\bin\Debug\net5.0\StringEssentials.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\obj\Debug\net5.0\StringEssentials.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\obj\Debug\net5.0\ref\StringEssentials.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\obj\Debug\net5.0\StringEssentials.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\obj\Debug\net5.0\StringEssentials.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\bin\Debug\net5.0\Currency.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\bin\Debug\net5.0\Currency.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\bin\Debug\net5.0\Currency.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\bin\Debug\net5.0\Currency.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\bin\Debug\net5.0\Currency.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\bin\Debug\net5.0\ref\Currency.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\bin\Debug\net5.0\Currency.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\obj\Debug\net5.0\Currency.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\obj\Debug\net5.0\Currency.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\obj\Debug\net5.0\Currency.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\obj\Debug\net5.0\Currency.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\obj\Debug\net5.0\Currency.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\obj\Debug\net5.0\Currency.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\obj\Debug\net5.0\ref\Currency.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\obj\Debug\net5.0\Currency.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\obj\Debug\net5.0\Currency.genruntimeconfig.cache

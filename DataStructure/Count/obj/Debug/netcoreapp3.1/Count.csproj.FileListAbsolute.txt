@@ -1,0 +1,12 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\bin\Debug\netcoreapp3.1\Count.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\bin\Debug\netcoreapp3.1\Count.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\bin\Debug\netcoreapp3.1\Count.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\bin\Debug\netcoreapp3.1\Count.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\bin\Debug\netcoreapp3.1\Count.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\bin\Debug\netcoreapp3.1\Count.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\obj\Debug\netcoreapp3.1\Count.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\obj\Debug\netcoreapp3.1\Count.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\obj\Debug\netcoreapp3.1\Count.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\obj\Debug\netcoreapp3.1\Count.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\obj\Debug\netcoreapp3.1\Count.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\obj\Debug\netcoreapp3.1\Count.genruntimeconfig.cache

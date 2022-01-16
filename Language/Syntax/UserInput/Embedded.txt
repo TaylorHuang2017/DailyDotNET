@@ -1,0 +1,1 @@
+﻿demo file showing how to embed a resource

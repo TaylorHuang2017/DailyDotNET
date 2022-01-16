@@ -1,0 +1,12 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\bin\Debug\netcoreapp3.1\9X9.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\bin\Debug\netcoreapp3.1\9X9.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\bin\Debug\netcoreapp3.1\9X9.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\bin\Debug\netcoreapp3.1\9X9.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\bin\Debug\netcoreapp3.1\9X9.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\bin\Debug\netcoreapp3.1\9X9.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\obj\Debug\netcoreapp3.1\9X9.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\obj\Debug\netcoreapp3.1\9X9.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\obj\Debug\netcoreapp3.1\9X9.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\obj\Debug\netcoreapp3.1\9X9.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\obj\Debug\netcoreapp3.1\9X9.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\9X9\obj\Debug\netcoreapp3.1\9X9.genruntimeconfig.cache

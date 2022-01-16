@@ -1,0 +1,13 @@
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.exe
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.deps.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.runtimeconfig.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.runtimeconfig.dev.json
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.AssemblyInfoInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.AssemblyInfo.cs
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.csproj.CoreCompileInputs.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.dll
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.pdb
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.genruntimeconfig.cache
+D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.csprojAssemblyReference.cache
