@@ -20,5 +20,19 @@ namespace StringEssentials
             }
             return sbToShow.ToString();
         }
+
+        public static string SplitJoin(string s)
+        {
+            string[] message = s.Split(" ");
+            string[] newMessage = new string[message.Length];
+
+            for (int i = 0; i < message.Length; i++)
+            {
+                char[] letters = message[i].ToCharArray();
+                Array.Reverse(letters);
+                newMessage[i] = new string(letters);
+            }
+            return string.Join(" ", newMessage);
+        }
     }
 }

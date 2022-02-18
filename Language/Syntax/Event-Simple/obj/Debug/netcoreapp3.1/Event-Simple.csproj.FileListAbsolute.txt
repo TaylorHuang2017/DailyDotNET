@@ -10,3 +10,16 @@ D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event-Simple\obj\Debug\netcoreap
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.dll
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.pdb
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.genruntimeconfig.cache

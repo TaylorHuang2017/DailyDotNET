@@ -11,3 +11,16 @@ D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache

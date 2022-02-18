@@ -11,3 +11,16 @@ D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Delegate\obj\Debug\netcoreapp3.1\Delegate.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\obj\Debug\netcoreapp3.1\Delegate.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache

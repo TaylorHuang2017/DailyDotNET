@@ -11,3 +11,16 @@ D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Ev
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Event.dll
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Event.pdb
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache

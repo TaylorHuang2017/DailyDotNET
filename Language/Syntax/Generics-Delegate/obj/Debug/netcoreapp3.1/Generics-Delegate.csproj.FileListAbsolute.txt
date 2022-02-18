@@ -10,3 +10,16 @@ D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\obj\Debug\netc
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.dll
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.pdb
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.genruntimeconfig.cache

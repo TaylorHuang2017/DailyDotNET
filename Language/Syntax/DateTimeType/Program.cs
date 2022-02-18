@@ -70,6 +70,8 @@ namespace DateTimeType
             DateTime end = DateTime.Now;
             //end - start is a TimeSpan
             Console.WriteLine($"Time elapsed in milli-seconds: {(end - start).TotalMilliseconds}");
+
+            Console.ReadLine();
         }
 
 

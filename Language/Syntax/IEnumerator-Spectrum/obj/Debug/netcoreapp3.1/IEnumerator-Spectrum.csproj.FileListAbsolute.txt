@@ -10,3 +10,15 @@ D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\obj\Debug\n
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.dll
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.pdb
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.genruntimeconfig.cache

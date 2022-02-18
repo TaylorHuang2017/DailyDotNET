@@ -1,0 +1,13 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LinqSample1.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LinqSample1.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LinqSample1.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LinqSample1.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LinqSample1.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LinqSample1.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LinqSample1.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LinqSample1.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LinqSample1.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LinqSample1.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LinqSample1.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LinqSample1.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LinqSample1.genruntimeconfig.cache

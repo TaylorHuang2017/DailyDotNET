@@ -13,3 +13,4 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\UserInput\obj\Debug\n
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\UserInput\obj\Debug\net5.0\ref\UserInput.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\UserInput\obj\Debug\net5.0\UserInput.pdb
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\UserInput\obj\Debug\net5.0\UserInput.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\UserInput\obj\Debug\net5.0\UserInput.csprojAssemblyReference.cache

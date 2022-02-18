@@ -10,3 +10,16 @@ D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics\obj\Debug\netcoreapp3.1
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.dll
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.pdb
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.genruntimeconfig.cache
