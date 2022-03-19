@@ -1,0 +1,12 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\obj\Debug\net5.0\AssemblyLocation.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\obj\Debug\net5.0\AssemblyLocation.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\obj\Debug\net5.0\AssemblyLocation.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\obj\Debug\net5.0\AssemblyLocation.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\obj\Debug\net5.0\AssemblyLocation.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\bin\Debug\net5.0\AssemblyLocation.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\bin\Debug\net5.0\AssemblyLocation.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\bin\Debug\net5.0\ref\AssemblyLocation.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\bin\Debug\net5.0\AssemblyLocation.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\obj\Debug\net5.0\AssemblyLocation.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\obj\Debug\net5.0\ref\AssemblyLocation.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\AssemblyLocation\AssemblyLocation\obj\Debug\net5.0\AssemblyLocation.pdb

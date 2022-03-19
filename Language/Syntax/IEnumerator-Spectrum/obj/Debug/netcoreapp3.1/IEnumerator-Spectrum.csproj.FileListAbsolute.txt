@@ -22,3 +22,4 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.pdb
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.csprojAssemblyReference.cache
