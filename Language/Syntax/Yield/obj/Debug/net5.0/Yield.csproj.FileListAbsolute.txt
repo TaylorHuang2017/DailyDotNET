@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\bin\Debug\net5.0\Yield.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\bin\Debug\net5.0\Yield.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\bin\Debug\net5.0\Yield.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\bin\Debug\net5.0\Yield.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\bin\Debug\net5.0\Yield.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\bin\Debug\net5.0\ref\Yield.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\bin\Debug\net5.0\Yield.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\obj\Debug\net5.0\Yield.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\obj\Debug\net5.0\Yield.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\obj\Debug\net5.0\Yield.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\obj\Debug\net5.0\Yield.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\obj\Debug\net5.0\Yield.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\obj\Debug\net5.0\ref\Yield.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\obj\Debug\net5.0\Yield.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\obj\Debug\net5.0\Yield.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Yield\obj\Debug\net5.0\Yield.csprojAssemblyReference.cache

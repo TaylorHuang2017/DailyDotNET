@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JoaRKJibxRP9flsaoERSRZLiXlnvUGtNm73xDg3Bk7sJkUlw46vmD3tX95Cn49Xwn4p0uHoOoHIFPnB88EAs3A==",
+  "success": true,
+  "projectFilePath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\ClassLibrary\\CommonCL\\DI\\DI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

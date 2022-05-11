@@ -53,5 +53,17 @@ namespace StartApp
             var filename = @"E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\StringEssentials\bin\Debug\net5.0\StringEssentials.exe";
             InvokeMyfile(filename);
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var filename = @"E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Currency\bin\Debug\net5.0\Currency.exe";
+            InvokeMyfile(filename);
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            var filename = @"E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-ExtensionMethods.exe";
+            InvokeMyfile(filename);
+        }
     }
 }

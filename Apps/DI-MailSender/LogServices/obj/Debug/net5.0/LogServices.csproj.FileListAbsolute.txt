@@ -1,0 +1,12 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\bin\Debug\net5.0\LogServices.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\bin\Debug\net5.0\LogServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\bin\Debug\net5.0\ref\LogServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\bin\Debug\net5.0\LogServices.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.csproj.AssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\ref\LogServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.pdb

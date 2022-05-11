@@ -5,7 +5,6 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Numbers\bin\Debug\net
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Numbers\bin\Debug\net5.0\Numbers.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Numbers\bin\Debug\net5.0\ref\Numbers.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Numbers\bin\Debug\net5.0\Numbers.pdb
-E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Numbers\obj\Debug\net5.0\Numbers.csprojAssemblyReference.cache
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Numbers\obj\Debug\net5.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfoInputs.cache
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfo.cs

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvLQnrVpnHK6xW85ixoYYuV5Pp1hqFZ70W1QiZptzMQISety6RWPnWPBcfSLqX6YbsN9RGV8H2Mfs6mKj+XO+Q==",
+  "success": true,
+  "projectFilePath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\DI-MailSender\\DI-MailSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

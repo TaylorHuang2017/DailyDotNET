@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Language\\Syntax\\LINQ\\LinqSample1.csproj",
-      "projectName": "LinqSample1",
-      "projectPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Language\\Syntax\\LINQ\\LinqSample1.csproj",
+      "projectUniqueName": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Language\\Syntax\\LINQ\\LINQ-Files.csproj",
+      "projectName": "LINQ-Files",
+      "projectPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Language\\Syntax\\LINQ\\LINQ-Files.csproj",
       "packagesPath": "C:\\Users\\黄泰然\\.nuget\\packages\\",
       "outputPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Language\\Syntax\\LINQ\\obj\\",
       "projectStyle": "PackageReference",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.212\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.213\\RuntimeIdentifierGraph.json"
       }
     }
   }

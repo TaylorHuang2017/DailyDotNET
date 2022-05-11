@@ -1,0 +1,17 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\bin\Debug\net5.0\MailServices.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\bin\Debug\net5.0\MailServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\bin\Debug\net5.0\ref\MailServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\bin\Debug\net5.0\MailServices.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\bin\Debug\net5.0\ConfigServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\bin\Debug\net5.0\LogServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\bin\Debug\net5.0\ConfigServices.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\bin\Debug\net5.0\LogServices.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\obj\Debug\net5.0\MailServices.csproj.AssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\obj\Debug\net5.0\MailServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\obj\Debug\net5.0\MailServices.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\obj\Debug\net5.0\MailServices.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\obj\Debug\net5.0\MailServices.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\obj\Debug\net5.0\MailServices.csproj.CopyComplete
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\obj\Debug\net5.0\MailServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\obj\Debug\net5.0\ref\MailServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\MailServices\obj\Debug\net5.0\MailServices.pdb

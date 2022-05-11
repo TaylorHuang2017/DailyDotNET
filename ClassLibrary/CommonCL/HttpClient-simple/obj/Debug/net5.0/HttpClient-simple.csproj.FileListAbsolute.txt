@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\bin\Debug\net5.0\HttpClient-simple.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\bin\Debug\net5.0\HttpClient-simple.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\bin\Debug\net5.0\HttpClient-simple.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\bin\Debug\net5.0\HttpClient-simple.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\bin\Debug\net5.0\HttpClient-simple.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\bin\Debug\net5.0\ref\HttpClient-simple.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\bin\Debug\net5.0\HttpClient-simple.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\obj\Debug\net5.0\HttpClient-simple.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\obj\Debug\net5.0\HttpClient-simple.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\obj\Debug\net5.0\HttpClient-simple.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\obj\Debug\net5.0\HttpClient-simple.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\obj\Debug\net5.0\HttpClient-simple.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\obj\Debug\net5.0\ref\HttpClient-simple.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\obj\Debug\net5.0\HttpClient-simple.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\obj\Debug\net5.0\HttpClient-simple.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HttpClient-simple\obj\Debug\net5.0\HttpClient-simple.csprojAssemblyReference.cache

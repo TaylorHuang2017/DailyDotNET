@@ -1,19 +1,19 @@
 ﻿Timer
-1.0.0.0
+
 
 winexe
 C#
 .cs
-d:\learn-to-code\CSharpRamp\timliu\VisualStudio\Timer\obj\Debug\netcoreapp3.1\
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\Timer\obj\Debug\netcoreapp3.1\
 Timer
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-d:\learn-to-code\CSharpRamp\timliu\VisualStudio\Timer\App.xaml
-1219584333
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\Timer\App.xaml
+11407045341
 
-5566003788
-192674553305
+3-1233169557
+192-1533232326
 MainWindow.xaml;
 
 True

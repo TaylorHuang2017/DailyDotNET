@@ -1,0 +1,12 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\bin\Debug\net5.0\ConfigServices.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\bin\Debug\net5.0\ConfigServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\bin\Debug\net5.0\ref\ConfigServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\bin\Debug\net5.0\ConfigServices.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.csproj.AssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ref\ConfigServices.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.pdb

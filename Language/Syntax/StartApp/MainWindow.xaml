@@ -12,10 +12,12 @@
             <ColumnDefinition Width="49*"/>
             <ColumnDefinition Width="81*"/>
         </Grid.ColumnDefinitions>
-        
+
         <Button x:Name="btnDateTime" Content="DateTime示例" HorizontalAlignment="Left" Margin="44,29,0,0" VerticalAlignment="Top" Height="34" Width="137" Click="btnDateTime_Click"/>
         <Button x:Name="btnNumbers" Content="随机数" HorizontalAlignment="Left" Margin="44,99,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.059,-0.112" Height="37" Width="137" Click="btnNumbers_Click"/>
         <Button x:Name="btnString" Content="字符串处理" HorizontalAlignment="Left" Margin="44,170,0,0" VerticalAlignment="Top" Height="33" Width="137" Click="btnString_Click" AutomationProperties.HelpText="去中间空格,单词反转"/>
+        <Button Content="Currency formatter" HorizontalAlignment="Left" Margin="44,244,0,0" VerticalAlignment="Top" Height="34" Width="137" Click="Button_Click"/>
+        <Button Content="LINQ" HorizontalAlignment="Left" Margin="44,306,0,0" VerticalAlignment="Top" Height="33" Width="137" Click="Button_Click_1"/>
 
     </Grid>
 </Window>

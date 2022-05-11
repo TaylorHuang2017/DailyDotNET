@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\bin\Debug\net5.0\LambdaExpression.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\bin\Debug\net5.0\LambdaExpression.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\bin\Debug\net5.0\LambdaExpression.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\bin\Debug\net5.0\LambdaExpression.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\bin\Debug\net5.0\LambdaExpression.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\bin\Debug\net5.0\ref\LambdaExpression.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\bin\Debug\net5.0\LambdaExpression.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\obj\Debug\net5.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\obj\Debug\net5.0\LambdaExpression.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\obj\Debug\net5.0\LambdaExpression.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\obj\Debug\net5.0\LambdaExpression.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\obj\Debug\net5.0\LambdaExpression.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\obj\Debug\net5.0\ref\LambdaExpression.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\obj\Debug\net5.0\LambdaExpression.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\obj\Debug\net5.0\LambdaExpression.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LambdaExpression\obj\Debug\net5.0\LambdaExpression.csprojAssemblyReference.cache

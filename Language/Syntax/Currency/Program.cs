@@ -18,6 +18,7 @@ namespace Currency
             format.CurrencyGroupSeparator = " ";
             string customFormatted = price.ToString("C", format);
             Console.WriteLine(customFormatted);
+            Console.ReadLine();
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DateTimeType
 {
-    class Utilities
+    public class Utilities
     {
         /// <summary>
         /// future date after XXX months

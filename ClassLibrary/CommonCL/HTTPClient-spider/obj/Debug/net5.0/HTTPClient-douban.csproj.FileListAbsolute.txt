@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\bin\Debug\net5.0\HTTPClient-douban.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\bin\Debug\net5.0\HTTPClient-douban.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\bin\Debug\net5.0\HTTPClient-douban.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\bin\Debug\net5.0\HTTPClient-douban.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\bin\Debug\net5.0\HTTPClient-douban.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\bin\Debug\net5.0\ref\HTTPClient-douban.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\bin\Debug\net5.0\HTTPClient-douban.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\obj\Debug\net5.0\HTTPClient-douban.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\obj\Debug\net5.0\HTTPClient-douban.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\obj\Debug\net5.0\HTTPClient-douban.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\obj\Debug\net5.0\HTTPClient-douban.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\obj\Debug\net5.0\HTTPClient-douban.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\obj\Debug\net5.0\HTTPClient-douban.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\obj\Debug\net5.0\ref\HTTPClient-douban.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\obj\Debug\net5.0\HTTPClient-douban.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\HTTPClient-spider\obj\Debug\net5.0\HTTPClient-douban.genruntimeconfig.cache

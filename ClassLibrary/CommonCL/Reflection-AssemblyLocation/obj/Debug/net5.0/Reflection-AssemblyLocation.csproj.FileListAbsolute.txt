@@ -1,0 +1,15 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\bin\Debug\net5.0\Reflection-AssemblyLocation.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\bin\Debug\net5.0\Reflection-AssemblyLocation.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\bin\Debug\net5.0\Reflection-AssemblyLocation.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\bin\Debug\net5.0\Reflection-AssemblyLocation.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\bin\Debug\net5.0\Reflection-AssemblyLocation.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\bin\Debug\net5.0\ref\Reflection-AssemblyLocation.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\bin\Debug\net5.0\Reflection-AssemblyLocation.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\obj\Debug\net5.0\Reflection-AssemblyLocation.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\obj\Debug\net5.0\Reflection-AssemblyLocation.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\obj\Debug\net5.0\Reflection-AssemblyLocation.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\obj\Debug\net5.0\Reflection-AssemblyLocation.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\obj\Debug\net5.0\Reflection-AssemblyLocation.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\obj\Debug\net5.0\ref\Reflection-AssemblyLocation.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\obj\Debug\net5.0\Reflection-AssemblyLocation.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\ClassLibrary\CommonCL\Reflection-AssemblyLocation\obj\Debug\net5.0\Reflection-AssemblyLocation.genruntimeconfig.cache

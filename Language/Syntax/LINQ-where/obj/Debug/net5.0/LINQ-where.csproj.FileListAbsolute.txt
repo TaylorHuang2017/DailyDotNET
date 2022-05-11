@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-where.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-where.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-where.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-where.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-where.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\ref\LINQ-where.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-where.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-where.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-where.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-where.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-where.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-where.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\ref\LINQ-where.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-where.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-where.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-where.csprojAssemblyReference.cache

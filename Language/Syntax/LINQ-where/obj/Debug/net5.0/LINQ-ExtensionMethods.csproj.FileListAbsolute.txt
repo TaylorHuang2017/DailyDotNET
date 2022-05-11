@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-ExtensionMethods.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-ExtensionMethods.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-ExtensionMethods.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-ExtensionMethods.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-ExtensionMethods.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\ref\LINQ-ExtensionMethods.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\bin\Debug\net5.0\LINQ-ExtensionMethods.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-ExtensionMethods.csprojAssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-ExtensionMethods.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-ExtensionMethods.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-ExtensionMethods.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-ExtensionMethods.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\ref\LINQ-ExtensionMethods.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-ExtensionMethods.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ-where\obj\Debug\net5.0\LINQ-ExtensionMethods.genruntimeconfig.cache

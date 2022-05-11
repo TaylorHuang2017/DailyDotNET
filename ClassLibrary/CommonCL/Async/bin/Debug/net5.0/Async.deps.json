@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Async/1.0.0": {
+        "dependencies": {
+          "HttpClient-simple": "1.0.0"
+        },
+        "runtime": {
+          "Async.dll": {}
+        }
+      },
+      "HttpClient-simple/1.0.0": {
+        "runtime": {
+          "HttpClient-simple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Async/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HttpClient-simple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
