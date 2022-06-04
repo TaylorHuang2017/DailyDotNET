@@ -23,3 +23,16 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debu
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.pdb
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.genruntimeconfig.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.exe
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\bin\Debug\netcoreapp3.1\Event-Simple.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event-Simple\obj\Debug\netcoreapp3.1\Event-Simple.genruntimeconfig.cache

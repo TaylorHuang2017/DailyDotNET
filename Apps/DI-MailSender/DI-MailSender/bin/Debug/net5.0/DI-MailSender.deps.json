@@ -49,6 +49,9 @@
         }
       },
       "LogServices/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
         "runtime": {
           "LogServices.dll": {}
         }

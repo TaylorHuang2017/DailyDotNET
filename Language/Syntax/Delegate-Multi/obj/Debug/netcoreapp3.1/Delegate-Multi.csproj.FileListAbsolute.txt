@@ -24,3 +24,16 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate-Multi\obj\De
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.pdb
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.genruntimeconfig.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.exe
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\bin\Debug\netcoreapp3.1\Delegate-Multi.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Delegate-Multi\obj\Debug\netcoreapp3.1\Delegate-Multi.genruntimeconfig.cache

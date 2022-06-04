@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1KL9Ut+dtIpOQA1TRrIIIaNWTI/EhdDFMwkI8oyHOkYspVfqf6zatRr3uiEIdWWbbzQynt3zFEWwfyq70QDWDg==",
+  "dgSpecHash": "T0dk9PIkiB9aJqfYim2ycPGy12Nb8GHAP72nh6bt5HLgGL8ySlRAdLG/d0ZCQqPY5Hn4++GnEaH52BuAbV8cJA==",
   "success": true,
-  "projectFilePath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tahuan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\MailServices\\MailServices.csproj": {}
+    "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\MailServices\\MailServices.csproj": {}
   },
   "projects": {
-    "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\ConfigServices.csproj": {
+    "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\ConfigServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\ConfigServices.csproj",
+        "projectUniqueName": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\ConfigServices.csproj",
         "projectName": "ConfigServices",
-        "projectPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\ConfigServices.csproj",
-        "packagesPath": "C:\\Users\\黄泰然\\.nuget\\packages\\",
-        "outputPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\obj\\",
+        "projectPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\ConfigServices.csproj",
+        "packagesPath": "C:\\Users\\tahuan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\黄泰然\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\tahuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -60,28 +57,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj": {
+    "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj",
+        "projectUniqueName": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj",
         "projectName": "LogServices",
-        "projectPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj",
-        "packagesPath": "C:\\Users\\黄泰然\\.nuget\\packages\\",
-        "outputPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\obj\\",
+        "projectPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj",
+        "packagesPath": "C:\\Users\\tahuan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\黄泰然\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\tahuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -105,6 +99,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -120,28 +120,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\MailServices\\MailServices.csproj": {
+    "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\MailServices\\MailServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\MailServices\\MailServices.csproj",
+        "projectUniqueName": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\MailServices\\MailServices.csproj",
         "projectName": "MailServices",
-        "projectPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\MailServices\\MailServices.csproj",
-        "packagesPath": "C:\\Users\\黄泰然\\.nuget\\packages\\",
-        "outputPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\MailServices\\obj\\",
+        "projectPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\MailServices\\MailServices.csproj",
+        "packagesPath": "C:\\Users\\tahuan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\MailServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\黄泰然\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\tahuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -154,11 +151,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\ConfigServices.csproj": {
-                "projectPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\ConfigServices.csproj"
+              "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\ConfigServices.csproj": {
+                "projectPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\ConfigServices\\ConfigServices.csproj"
               },
-              "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj": {
-                "projectPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj"
+              "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj": {
+                "projectPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\DI-MailSender\\LogServices\\LogServices.csproj"
               }
             }
           }
@@ -187,7 +184,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
         }
       }
     }

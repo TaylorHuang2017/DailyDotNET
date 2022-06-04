@@ -1,0 +1,16 @@
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\bin\Debug\net5.0\Stack.exe
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\bin\Debug\net5.0\Stack.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\bin\Debug\net5.0\Stack.dll
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\bin\Debug\net5.0\ref\Stack.dll
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\bin\Debug\net5.0\Stack.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\obj\Debug\net5.0\Stack.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\obj\Debug\net5.0\Stack.dll
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\obj\Debug\net5.0\ref\Stack.dll
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\obj\Debug\net5.0\Stack.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache

@@ -10,3 +10,15 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ref\ConfigServices.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\bin\Debug\net5.0\ConfigServices.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\bin\Debug\net5.0\ConfigServices.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\bin\Debug\net5.0\ref\ConfigServices.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\bin\Debug\net5.0\ConfigServices.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ref\ConfigServices.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\ConfigServices\obj\Debug\net5.0\ConfigServices.pdb

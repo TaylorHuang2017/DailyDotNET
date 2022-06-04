@@ -10,3 +10,15 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\De
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\ref\LogServices.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\bin\Debug\net5.0\LogServices.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\bin\Debug\net5.0\LogServices.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\bin\Debug\net5.0\ref\LogServices.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\bin\Debug\net5.0\LogServices.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\ref\LogServices.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Apps\DI-MailSender\LogServices\obj\Debug\net5.0\LogServices.pdb

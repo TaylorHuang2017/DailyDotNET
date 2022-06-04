@@ -23,3 +23,16 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.pdb
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.genruntimeconfig.cache
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.exe
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\bin\Debug\netcoreapp3.1\IEnumerator-Spectrum.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\IEnumerator-Spectrum\obj\Debug\netcoreapp3.1\IEnumerator-Spectrum.genruntimeconfig.cache

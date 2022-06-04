@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\ConfigSystem\\Config\\CommandLineConfig\\CommandLineConfig.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\ConfigSystem\\Config\\CommandLineConfig\\CommandLineConfig.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\ConfigSystem\\Config\\CommandLineConfig\\CommandLineConfig.csproj",
+        "projectName": "CommandLineConfig",
+        "projectPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\ConfigSystem\\Config\\CommandLineConfig\\CommandLineConfig.csproj",
+        "packagesPath": "C:\\Users\\tahuan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Apps\\ConfigSystem\\Config\\CommandLineConfig\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tahuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

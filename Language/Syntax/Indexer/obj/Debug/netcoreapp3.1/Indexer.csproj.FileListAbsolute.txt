@@ -24,3 +24,16 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\net
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache

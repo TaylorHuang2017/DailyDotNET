@@ -1,0 +1,16 @@
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\bin\Debug\net5.0\Inheritiance-Reference.exe
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\bin\Debug\net5.0\Inheritiance-Reference.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\bin\Debug\net5.0\Inheritiance-Reference.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\bin\Debug\net5.0\Inheritiance-Reference.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\bin\Debug\net5.0\Inheritiance-Reference.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\bin\Debug\net5.0\ref\Inheritiance-Reference.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\bin\Debug\net5.0\Inheritiance-Reference.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\obj\Debug\net5.0\Inheritiance-Reference.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\obj\Debug\net5.0\Inheritiance-Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\obj\Debug\net5.0\Inheritiance-Reference.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\obj\Debug\net5.0\Inheritiance-Reference.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\obj\Debug\net5.0\Inheritiance-Reference.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\obj\Debug\net5.0\Inheritiance-Reference.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\obj\Debug\net5.0\ref\Inheritiance-Reference.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\obj\Debug\net5.0\Inheritiance-Reference.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Inheritiance-Reference\obj\Debug\net5.0\Inheritiance-Reference.genruntimeconfig.cache

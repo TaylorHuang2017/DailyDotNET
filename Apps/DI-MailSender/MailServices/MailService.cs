@@ -23,7 +23,7 @@ namespace MailServices
             this.log.LogInfo("ready to start");
             string smtpServer = this.config.GetValue("SmtpServer");
             Console.WriteLine($"server address: {smtpServer}");
-            Console.WriteLine("Mail sent. Title: {title}, To: {to}");
+            Console.WriteLine($"Mail sent. Title: {title}, To: {to}");
             this.log.LogInfo("completed");
 
         }

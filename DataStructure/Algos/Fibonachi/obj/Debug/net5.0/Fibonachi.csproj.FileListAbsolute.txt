@@ -1,0 +1,16 @@
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\bin\Debug\net5.0\Fibonachi.exe
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\bin\Debug\net5.0\Fibonachi.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\bin\Debug\net5.0\Fibonachi.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\bin\Debug\net5.0\Fibonachi.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\bin\Debug\net5.0\Fibonachi.dll
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\bin\Debug\net5.0\ref\Fibonachi.dll
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\bin\Debug\net5.0\Fibonachi.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\obj\Debug\net5.0\Fibonachi.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\obj\Debug\net5.0\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\obj\Debug\net5.0\Fibonachi.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\obj\Debug\net5.0\Fibonachi.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\obj\Debug\net5.0\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\obj\Debug\net5.0\Fibonachi.dll
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\obj\Debug\net5.0\ref\Fibonachi.dll
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\obj\Debug\net5.0\Fibonachi.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\DataStructure\Algos\Fibonachi\obj\Debug\net5.0\Fibonachi.genruntimeconfig.cache

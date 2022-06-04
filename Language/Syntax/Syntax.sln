@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpression", "LambdaE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ-ExtensionMethods", "LINQ-where\LINQ-ExtensionMethods.csproj", "{4BE2E9F4-2093-452A-8E10-F6FCBC90AC32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritiance-Reference", "Inheritiance-Reference\Inheritiance-Reference.csproj", "{56C72538-8FB6-43F8-BF99-0844B180081B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{4BE2E9F4-2093-452A-8E10-F6FCBC90AC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BE2E9F4-2093-452A-8E10-F6FCBC90AC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BE2E9F4-2093-452A-8E10-F6FCBC90AC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C72538-8FB6-43F8-BF99-0844B180081B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C72538-8FB6-43F8-BF99-0844B180081B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C72538-8FB6-43F8-BF99-0844B180081B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C72538-8FB6-43F8-BF99-0844B180081B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

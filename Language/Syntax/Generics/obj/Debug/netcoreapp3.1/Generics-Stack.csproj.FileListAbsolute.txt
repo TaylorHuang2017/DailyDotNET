@@ -23,3 +23,16 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\ne
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.pdb
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.genruntimeconfig.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.exe
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\bin\Debug\netcoreapp3.1\Generics-Stack.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics\obj\Debug\netcoreapp3.1\Generics-Stack.genruntimeconfig.cache

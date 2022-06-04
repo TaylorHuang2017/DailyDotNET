@@ -24,3 +24,16 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netco
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.pdb
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.exe
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\bin\Debug\netcoreapp3.1\Event.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache

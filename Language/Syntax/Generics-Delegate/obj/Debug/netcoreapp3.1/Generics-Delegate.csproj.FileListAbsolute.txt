@@ -23,3 +23,16 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.pdb
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.genruntimeconfig.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.exe
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\bin\Debug\netcoreapp3.1\Generics-Delegate.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\Generics-Delegate\obj\Debug\netcoreapp3.1\Generics-Delegate.genruntimeconfig.cache

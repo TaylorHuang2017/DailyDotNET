@@ -11,3 +11,16 @@ E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcor
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LINQ-Files.dll
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LINQ-Files.pdb
 E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LINQ-Files.genruntimeconfig.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LINQ-Files.exe
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LINQ-Files.deps.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LINQ-Files.runtimeconfig.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LINQ-Files.runtimeconfig.dev.json
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LINQ-Files.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\bin\Debug\netcoreapp3.1\LINQ-Files.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LINQ-Files.csprojAssemblyReference.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LINQ-Files.AssemblyInfoInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LINQ-Files.AssemblyInfo.cs
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LINQ-Files.csproj.CoreCompileInputs.cache
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LINQ-Files.dll
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LINQ-Files.pdb
+C:\Users\tahuan\Desktop\DailyDotNET\Language\Syntax\LINQ\obj\Debug\netcoreapp3.1\LINQ-Files.genruntimeconfig.cache
