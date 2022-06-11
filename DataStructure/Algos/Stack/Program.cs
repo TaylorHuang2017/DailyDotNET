@@ -15,6 +15,10 @@ namespace Stack
             Console.WriteLine("Stack pointer: " + stack.position);
             Console.WriteLine("Poping up one item " + s);
 
+            var stackG = new Stack<int>();
+            stackG.Push(5);
+            Console.WriteLine(stackG.Pop());
+
         }
     }
 }

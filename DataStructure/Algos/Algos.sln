@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9X9", "9X9\9X9.csproj", "{4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count", "Count\Count.csproj", "{1F0786D8-1183-4906-A41D-716B4828D288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{D1E325B9-5558-45E9-B104-57963C62A66B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "Stack\Stack.csproj", "{D1E325B9-5558-45E9-B104-57963C62A66B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap", "Swap\Swap.csproj", "{A15F1426-2C9C-479D-B876-6CADF33F4305}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D1E325B9-5558-45E9-B104-57963C62A66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1E325B9-5558-45E9-B104-57963C62A66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1E325B9-5558-45E9-B104-57963C62A66B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15F1426-2C9C-479D-B876-6CADF33F4305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15F1426-2C9C-479D-B876-6CADF33F4305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15F1426-2C9C-479D-B876-6CADF33F4305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15F1426-2C9C-479D-B876-6CADF33F4305}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

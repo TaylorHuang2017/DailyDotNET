@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ztw3r2BS8jfavgcXP8dTe36G4ZYiu9omeEw7ACDCTK6di73f65scUYDy3UnofpNzf97f+cdJgub0dgpwltXNhQ==",
+  "dgSpecHash": "oofeuuhBfrKy+e84z/GuP9zhJcAQxBAC5Ze+3at1Y9+BfYsRsP+pVCKB7EXa0eM1SgL2lG1KhaQTjGbsM4ANmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Language\\Syntax\\Delegate\\Delegate.csproj",
+  "projectFilePath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Language\\Syntax\\Delegate\\Delegate_Func_Action.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

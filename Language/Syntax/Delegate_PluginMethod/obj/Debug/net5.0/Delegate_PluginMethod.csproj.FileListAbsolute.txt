@@ -1,0 +1,15 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\obj\Debug\net5.0\Delegate_PluginMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\obj\Debug\net5.0\Delegate_PluginMethod.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\obj\Debug\net5.0\Delegate_PluginMethod.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\obj\Debug\net5.0\Delegate_PluginMethod.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\bin\Debug\net5.0\Delegate_PluginMethod.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\bin\Debug\net5.0\Delegate_PluginMethod.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\bin\Debug\net5.0\Delegate_PluginMethod.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\bin\Debug\net5.0\Delegate_PluginMethod.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\bin\Debug\net5.0\Delegate_PluginMethod.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\bin\Debug\net5.0\ref\Delegate_PluginMethod.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\bin\Debug\net5.0\Delegate_PluginMethod.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\obj\Debug\net5.0\Delegate_PluginMethod.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\obj\Debug\net5.0\ref\Delegate_PluginMethod.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\obj\Debug\net5.0\Delegate_PluginMethod.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Delegate_PluginMethod\obj\Debug\net5.0\Delegate_PluginMethod.genruntimeconfig.cache

@@ -10,3 +10,17 @@ D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\obj\Debug\netcoreapp3.1\Co
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\obj\Debug\netcoreapp3.1\Count.dll
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\obj\Debug\netcoreapp3.1\Count.pdb
 D:\learn-to-code\CSharpRamp\timliu\VisualStudio\Count\obj\Debug\netcoreapp3.1\Count.genruntimeconfig.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\bin\Debug\netcoreapp3.1\Count.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\bin\Debug\netcoreapp3.1\Count.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\bin\Debug\netcoreapp3.1\Count.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\bin\Debug\netcoreapp3.1\Count.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\bin\Debug\netcoreapp3.1\Count.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\bin\Debug\netcoreapp3.1\Count.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\obj\Debug\netcoreapp3.1\Count.csproj.AssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\obj\Debug\netcoreapp3.1\Count.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\obj\Debug\netcoreapp3.1\Count.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\obj\Debug\netcoreapp3.1\Count.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\obj\Debug\netcoreapp3.1\Count.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\obj\Debug\netcoreapp3.1\Count.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\obj\Debug\netcoreapp3.1\Count.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Count\obj\Debug\netcoreapp3.1\Count.genruntimeconfig.cache

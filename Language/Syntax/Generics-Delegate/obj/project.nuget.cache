@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uH93RgvUTAAQhweF37EFc8CKL2pszkIG/UsxSM0atHc0b284breuDR/EP3LzWwv7MX7k1FSQhrBvmZy0mk3izg==",
+  "dgSpecHash": "n0GIvVcWMuZXXZ5qgpdb+4qkG1+rHb/07KoQRfYuVxdOuHAB63YbHatEDyLOvl4wnh6FBx3hmYUjxXPcVXmXAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\Language\\Syntax\\Generics-Delegate\\Generics-Delegate.csproj",
+  "projectFilePath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Language\\Syntax\\Generics-Delegate\\Generics-Delegate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

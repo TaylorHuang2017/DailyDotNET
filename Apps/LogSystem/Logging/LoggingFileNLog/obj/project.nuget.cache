@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "2sFh82iouZWdv/EcWpFt0xEv5qun65zivJAymTXChPJN/+CyMaGMdq8dK9rnd05MgxfsZNSQrpLWObINtgqtoQ==",
+  "success": true,
+  "projectFilePath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\Apps\\LogSystem\\Logging\\LoggingFileNLog\\LoggingFileNLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\nlog\\5.0.0\\nlog.5.0.0.nupkg.sha512",
+    "C:\\Users\\黄泰然\\.nuget\\packages\\nlog.extensions.logging\\5.0.0\\nlog.extensions.logging.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

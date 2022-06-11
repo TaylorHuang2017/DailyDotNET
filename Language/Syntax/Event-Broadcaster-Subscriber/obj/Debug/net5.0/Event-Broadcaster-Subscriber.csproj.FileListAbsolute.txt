@@ -1,0 +1,16 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\bin\Debug\net5.0\Event-Broadcaster-Subscriber.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\bin\Debug\net5.0\Event-Broadcaster-Subscriber.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\bin\Debug\net5.0\Event-Broadcaster-Subscriber.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\bin\Debug\net5.0\Event-Broadcaster-Subscriber.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\bin\Debug\net5.0\Event-Broadcaster-Subscriber.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\bin\Debug\net5.0\ref\Event-Broadcaster-Subscriber.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\bin\Debug\net5.0\Event-Broadcaster-Subscriber.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\obj\Debug\net5.0\Event-Broadcaster-Subscriber.csproj.AssemblyReference.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\obj\Debug\net5.0\Event-Broadcaster-Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\obj\Debug\net5.0\Event-Broadcaster-Subscriber.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\obj\Debug\net5.0\Event-Broadcaster-Subscriber.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\obj\Debug\net5.0\Event-Broadcaster-Subscriber.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\obj\Debug\net5.0\Event-Broadcaster-Subscriber.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\obj\Debug\net5.0\ref\Event-Broadcaster-Subscriber.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\obj\Debug\net5.0\Event-Broadcaster-Subscriber.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\Language\Syntax\Event-Broadcaster-Subscriber\obj\Debug\net5.0\Event-Broadcaster-Subscriber.genruntimeconfig.cache

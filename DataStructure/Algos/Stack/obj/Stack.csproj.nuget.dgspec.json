@@ -1,24 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\DataStructure\\Algos\\Stack\\Stack.csproj": {}
+    "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\DataStructure\\Algos\\Stack\\Stack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\DataStructure\\Algos\\Stack\\Stack.csproj": {
+    "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\DataStructure\\Algos\\Stack\\Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\DataStructure\\Algos\\Stack\\Stack.csproj",
+        "projectUniqueName": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\DataStructure\\Algos\\Stack\\Stack.csproj",
         "projectName": "Stack",
-        "projectPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\DataStructure\\Algos\\Stack\\Stack.csproj",
-        "packagesPath": "C:\\Users\\tahuan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tahuan\\Desktop\\DailyDotNET\\DataStructure\\Algos\\Stack\\obj\\",
+        "projectPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\DataStructure\\Algos\\Stack\\Stack.csproj",
+        "packagesPath": "C:\\Users\\黄泰然\\.nuget\\packages\\",
+        "outputPath": "E:\\LearnToCode\\Codebase\\CSharp\\DailyDotNET\\DataStructure\\Algos\\Stack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\tahuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\黄泰然\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -57,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

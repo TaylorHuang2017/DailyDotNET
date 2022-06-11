@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Event-Broadcaster-Subscriber/1.0.0": {
+        "runtime": {
+          "Event-Broadcaster-Subscriber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Event-Broadcaster-Subscriber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

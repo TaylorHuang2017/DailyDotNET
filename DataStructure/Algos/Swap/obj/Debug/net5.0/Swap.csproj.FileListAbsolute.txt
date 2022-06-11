@@ -1,0 +1,15 @@
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\bin\Debug\net5.0\Swap.exe
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\bin\Debug\net5.0\Swap.deps.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\bin\Debug\net5.0\Swap.runtimeconfig.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\bin\Debug\net5.0\Swap.runtimeconfig.dev.json
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\bin\Debug\net5.0\Swap.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\bin\Debug\net5.0\ref\Swap.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\bin\Debug\net5.0\Swap.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\obj\Debug\net5.0\Swap.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\obj\Debug\net5.0\Swap.AssemblyInfoInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\obj\Debug\net5.0\Swap.AssemblyInfo.cs
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\obj\Debug\net5.0\Swap.csproj.CoreCompileInputs.cache
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\obj\Debug\net5.0\Swap.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\obj\Debug\net5.0\ref\Swap.dll
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\obj\Debug\net5.0\Swap.pdb
+E:\LearnToCode\Codebase\CSharp\DailyDotNET\DataStructure\Algos\Swap\obj\Debug\net5.0\Swap.genruntimeconfig.cache
